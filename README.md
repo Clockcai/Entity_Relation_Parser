@@ -1,0 +1,2 @@
+# Entity_Relation_Parser
+解析小说中的人物关系和事件生成图谱
